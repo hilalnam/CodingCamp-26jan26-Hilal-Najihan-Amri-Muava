@@ -75,7 +75,7 @@ project/
 
 ## 🌐 Live Website
 
-🔗 **GitHub Pages:** [](https://hilalnam.github.io/CodingCamp-26jan26-Hilal-Najihan-Amri-Muava/)
+🔗 **GitHub Pages:** [Link Web](https://hilalnam.github.io/CodingCamp-26jan26-Hilal-Najihan-Amri-Muava/)
 
 ---
 
