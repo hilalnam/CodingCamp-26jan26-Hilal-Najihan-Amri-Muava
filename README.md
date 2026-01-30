@@ -53,22 +53,21 @@ The company emphasizes:
 - **Tailwind CSS (Play CDN)**
 - **Vanilla JavaScript**
 - **Git & GitHub**
-- **GitHub Pages** (for deployment)
+- **GitHub Pages** 
 
 ---
 
 ## 📂 Project Structure
 
 ```
-project/
-├── index.html
-├── README.md
-├── css/
-│   └── style.css
+.
+├── index.html         
+│   └── style.css       
 ├── js/
-│   └── script.js
+│   └── script.js        
 ├── logo.png
 └── banner.png
+
 ```
 
 ---
@@ -92,4 +91,4 @@ project/
 
 **Hilal Najihan Amri Muava**  
 Software Developer Trainee  
-CodingCamp Participant
+CodingCamp REVOU Participant
